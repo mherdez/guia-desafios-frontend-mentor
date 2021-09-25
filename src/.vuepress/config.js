@@ -23,10 +23,10 @@ module.exports = {
         text: 'Newbie',
         link: '/newbie/',
       },
-      {
-        text: 'Junior',
-        link: '/junior/',
-      },
+      // {
+      //   text: 'Junior',
+      //   link: '/junior/',
+      // },
 
     ],
     // sidebar: [
@@ -42,7 +42,7 @@ module.exports = {
           children: [
             '',
             'newbie-01',
-            'newbie-02',
+            // 'newbie-02',
           ]
         }
       ],
