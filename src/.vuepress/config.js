@@ -19,12 +19,44 @@ module.exports = {
         text: 'Guía',
         link: '/',
       },
-    ],
-    sidebar: [
-      '/',
-    ]
-  },
+      {
+        text: 'Newbie',
+        link: '/newbie/',
+      },
+      {
+        text: 'Junior',
+        link: '/junior/',
+      },
 
+    ],
+    // sidebar: [
+    //           '/',
+    //           '/newbie/01/', 
+    //           '/newbie/02/', 
+    //         ]
+    sidebar: {
+      '/newbie/': [
+        {
+          title: 'Newbie',
+          collapsable: false,
+          children: [
+            '',
+            'newbie-01',
+            'newbie-02',
+          ]
+        }
+      ],
+      '/junior/': [
+        {
+          title: 'Junior',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+      ],
+    }
+  },
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
