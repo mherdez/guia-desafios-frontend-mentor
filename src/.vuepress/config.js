@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Guía de soluciones a Frontend Mentor',
+  title: 'Soluciones paso a paso...',
   description: 'Guía paso a paso para resolver los desafíos de Frontend Mentor',
   dest: 'docs',
   base: '/guia-desafios-frontend-mentor/',

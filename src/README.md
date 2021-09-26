@@ -2,7 +2,7 @@
 home: true
 heroImage: https://cdn.pixabay.com/photo/2016/11/14/03/38/achieve-1822503_1280.jpg
 tagline: 
-actionText: Empezar →
+actionText: Ver guías →
 actionLink: /newbie/
 features:
 - title: Newbie
