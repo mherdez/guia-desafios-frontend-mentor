@@ -252,7 +252,7 @@ Configuración de la segunda sección general de la Card (inferior) y sus subsec
    color:hsl(224, 23%, 55%);
    font-weight: 900;
    font-size: 13px;
-   text-decoration: none;****
+   text-decoration: none;
 }
 ~~~
 
