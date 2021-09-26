@@ -5,7 +5,7 @@
 ## Objetivo
 - [Challenge Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 - [https://frontendmentor-newbie01.netlify.app/](https://frontendmentor-newbie01.netlify.app/)
-- [Github MHerdez](https://github.com/mherdez/frontendmentor-desafio-01)
+- [Github MHerdez](https://github.com/mherdez/desafio-newbie-01)
 
 ## Maquetación
 <img :src="$withBase('/assets/img/maquetacion.png')">
