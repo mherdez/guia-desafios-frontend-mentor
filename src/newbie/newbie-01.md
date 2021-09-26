@@ -5,7 +5,7 @@
 ## Objetivo
 - [Challenge Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 - [Live Demo](https://mherdez.github.io/desafio-newbie-01/)
-- [Github MHerdez](https://github.com/mherdez/desafio-newbie-01)
+- [Source Code. Github MHerdez](https://github.com/mherdez/desafio-newbie-01)
 
 ## Maquetación
 <img :src="$withBase('/assets/img/maquetacion.png')">
