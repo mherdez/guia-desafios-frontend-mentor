@@ -4,7 +4,7 @@
 
 ## Objetivo
 - [Challenge Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-- [https://frontendmentor-newbie01.netlify.app/](https://frontendmentor-newbie01.netlify.app/)
+- [https://mherdez.github.io/desafio-newbie-01/](https://mherdez.github.io/desafio-newbie-01/)
 - [Github MHerdez](https://github.com/mherdez/desafio-newbie-01)
 
 ## Maquetación
