@@ -172,6 +172,13 @@ Configuración de la segunda sección general de la Card (inferior) y sus subsec
 }
 ~~~
 
+#### .card-body-description-column-left 
+~~~css
+.card-body-description-column-left {
+   margin: 0px 10px;
+}
+~~~
+
 #### .card-body-description img 
 ~~~css
 .card-body-description img {
@@ -185,21 +192,6 @@ Configuración de la segunda sección general de la Card (inferior) y sus subsec
 .card-body-description-column-left p 
 {
    margin: 0px;
-}
-~~~
-
-#### .card-body-description-column-left 
-~~~css
-.card-body-description-column-left {
-   margin: 0px 10px;
-}
-~~~
-
-#### .card-body-description-column-right 
-~~~css
-.card-body-description-column-right {
-   margin-left: auto;
-   margin-right: 10px;
 }
 ~~~
 
@@ -218,6 +210,14 @@ Configuración de la segunda sección general de la Card (inferior) y sus subsec
 .card-body-description-column-left p {
    font-size: 14px;
    color: hsl(224, 23%, 55%);
+}
+~~~
+
+#### .card-body-description-column-right 
+~~~css
+.card-body-description-column-right {
+   margin-left: auto;
+   margin-right: 10px;
 }
 ~~~
 
