@@ -42,7 +42,7 @@ module.exports = {
           children: [
             '',
             'newbie-01',
-            // 'newbie-02',
+            'newbie-02',
           ]
         }
       ],

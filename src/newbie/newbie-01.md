@@ -8,7 +8,7 @@
 - [Source Code. Github MHerdez](https://github.com/mherdez/desafio-newbie-01)
 
 ## Maquetación
-<img :src="$withBase('/assets/img/maquetacion.png')">
+<img :src="$withBase('/assets/img/newbie-1.png')">
 
 ## Estructura de archivos
 - images/
