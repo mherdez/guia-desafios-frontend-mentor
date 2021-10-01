@@ -23,6 +23,7 @@
 ## Recursos adicionales 
 - [SASS](https://sass-lang.com/guide)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
+- [Universal Box Sizing](https://css-tricks.com/box-sizing/#universal-box-sizing-with-inheritance)
 - [Live Sass Compiler (VSC)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 - [@media](https://developer.mozilla.org/es/docs/Web/CSS/@media)
 - [@media (width:)](https://developer.mozilla.org/es/docs/Web/CSS/@media/width)
